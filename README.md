@@ -12,4 +12,3 @@ Inside the key
 
 To use the format add_function should be called from the Transformer object
 
-From the transformer object transform() will transform the json withing the transformer file
