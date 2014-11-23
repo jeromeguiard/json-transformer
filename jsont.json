@@ -1,0 +1,7 @@
+{
+ "first":{"source":"first_t"},
+ "type_2": {"source":"dict:type_2",
+            "format": "fn"},
+ "type": {"value": "photo_type"},
+ "typeF": {"source": "dict:type", "type": "float"}
+}
